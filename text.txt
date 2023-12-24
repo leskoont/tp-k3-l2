@@ -1,0 +1,4 @@
+"tp k3 l2.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+"tp k3 l2.exe" (Win32). Загружено "C:\Windows\System32\imm32.dll". 
+Поток 0x3110 завершился с кодом 0 (0x0).
+"tp k3 l2.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll".
