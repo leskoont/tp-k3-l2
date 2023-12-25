@@ -1,4 +1,1 @@
-"tp k3 l2.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
-"tp k3 l2.exe" (Win32). Загружено "C:\Windows\System32\imm32.dll". 
-Поток 0x3110 завершился с кодом 0 (0x0).
-"tp k3 l2.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll".
+Mixed reality, car configurators, AAA games—everywhere you look, real-time skills are in demand. Make the most of it with Unreal Engine. So when opportunity knocks, you’ll be ready.

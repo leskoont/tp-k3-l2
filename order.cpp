@@ -1,4 +1,3 @@
-// ORDER.cpp
 #include "ORDER.h"
 
 ORDER::ORDER() : payerAccount(nullptr), payeeAccount(nullptr), amount(0.0) {
@@ -62,7 +61,7 @@ void ORDER::setAmount(double amt) {
 std::ostream& operator<<(std::ostream& os, const ORDER& order) {
     os << "Payer Account: " << order.payerAccount << "\n";
     os << "Payee Account: " << order.payeeAccount << "\n";
-    os << "Amount: " << order.amount << " rubles\n";
+    os << "Amount: " << order.amount << " rubles\n\n";
     return os;
 }
 
